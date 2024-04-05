@@ -1,0 +1,15 @@
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\bin\Debug\net7.0\Questio2.exe
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\bin\Debug\net7.0\Questio2.deps.json
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\bin\Debug\net7.0\Questio2.runtimeconfig.json
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\bin\Debug\net7.0\Questio2.dll
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\bin\Debug\net7.0\Questio2.pdb
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.csproj.AssemblyReference.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.AssemblyInfoInputs.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.AssemblyInfo.cs
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.csproj.CoreCompileInputs.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.dll
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\refint\Questio2.dll
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.pdb
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\Questio2.genruntimeconfig.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\DateTimeAssignment\Questio2\obj\Debug\net7.0\ref\Questio2.dll

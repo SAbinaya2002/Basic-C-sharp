@@ -1,0 +1,15 @@
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\bin\Debug\net7.0\RoughMethod.exe
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\bin\Debug\net7.0\RoughMethod.deps.json
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\bin\Debug\net7.0\RoughMethod.runtimeconfig.json
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\bin\Debug\net7.0\RoughMethod.dll
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\bin\Debug\net7.0\RoughMethod.pdb
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.csproj.AssemblyReference.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.AssemblyInfoInputs.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.AssemblyInfo.cs
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.csproj.CoreCompileInputs.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.dll
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\refint\RoughMethod.dll
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.pdb
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\RoughMethod.genruntimeconfig.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\RoughMethod\obj\Debug\net7.0\ref\RoughMethod.dll

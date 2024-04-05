@@ -1,0 +1,5 @@
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\obj\Debug\net7.0\AssignmentTest.csproj.AssemblyReference.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\obj\Debug\net7.0\AssignmentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\obj\Debug\net7.0\AssignmentTest.AssemblyInfoInputs.cache
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\obj\Debug\net7.0\AssignmentTest.AssemblyInfo.cs
+C:\Users\AbinayaSelvam\OneDrive - Syncfusion\Desktop\AssignmentTest\obj\Debug\net7.0\AssignmentTest.csproj.CoreCompileInputs.cache
